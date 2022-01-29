@@ -1,7 +1,6 @@
 package ru.geekbrains.auth;
 
 import ru.geekbrains.model.UserRegister;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;

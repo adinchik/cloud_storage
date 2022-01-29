@@ -1,8 +1,8 @@
 package ru.geekbrains.auth;
 
-import ru.geekbrains.cloud_app_server.Server;
 import ru.geekbrains.model.UserAuth;
 import ru.geekbrains.model.UserRegister;
+import ru.geekbrains.cloud_app_server.Server;
 
 import java.sql.*;
 import java.util.ArrayList;

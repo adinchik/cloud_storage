@@ -1,0 +1,7 @@
+ru\geekbrains\model\MessageType.class
+ru\geekbrains\model\FilesList.class
+ru\geekbrains\model\AbstractMessage.class
+ru\geekbrains\model\FileRequest.class
+ru\geekbrains\model\FileMessage.class
+ru\geekbrains\model\UserAuth.class
+ru\geekbrains\model\UserRegister.class
